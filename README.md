@@ -3,7 +3,7 @@ This is a living document based on articles, blogs, job listings, etc for work p
 
 ## Not all four day work weeks are the same
 In New Zealand the traditional working week is 40 hours or 8 hours a day for five days. Depending on who you ask a four day work week could be:
-- **32 hours** but with the same take home pay as 40 hours (at 100% pay)
+- **32 hours** with the same take home pay as 40 hours (at 100% pay)
 - **32 hours** if you've done your work for the week (at 100% pay)
 - **32 hours** but for 32 hours of pay (20% pay cut, a type of part time)
 - **40 hours** as four 10 hour days
