@@ -23,3 +23,9 @@ This piece does not discuss pros/cons.
 |-----|---|
 |01/07/2021| [Four-day working week plan picking up steam](https://www.rnz.co.nz/national/programmes/sunday/audio/2018806342/four-day-working-week-plan-picking-up-steam) by RNZ |
 |13/07/2021| [NZ ‘disappointingly slow’ to take up four-day week](https://www.newsroom.co.nz/disappointingly-slow-uptake-of-4-day-week) by Newsroom |
+
+## Contributing
+Feel free to submit a PR if:  
+1. The workplace/story isn't already covered by an existing link
+2. If there has been an update for a workplace. For instance moving from a trial. 
+3. There is proof by a reputable and public source
