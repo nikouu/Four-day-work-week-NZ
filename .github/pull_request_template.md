@@ -6,3 +6,4 @@
 ## Checklist
 - [ ] Information is from a public source
 - [ ] Information is from a reputable source
+- [ ] Information is not already covered in this repo
