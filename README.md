@@ -23,6 +23,7 @@ This piece does not discuss pros/cons.
 |-----|---|
 |01/07/2021| [Four-day working week plan picking up steam](https://www.rnz.co.nz/national/programmes/sunday/audio/2018806342/four-day-working-week-plan-picking-up-steam) by RNZ |
 |13/07/2021| [NZ ‘disappointingly slow’ to take up four-day week](https://www.newsroom.co.nz/disappointingly-slow-uptake-of-4-day-week) by Newsroom |
+| 09/06/2022 | [Expert says four-day working week should be new normal after COVID-19 pandemic](https://www.newshub.co.nz/home/money/2022/06/expert-says-four-day-working-week-should-be-new-normal-after-covid-19-pandemic.html) by Newshub |
 
 ## Contributing
 Feel free to submit a pull request if:  
