@@ -25,7 +25,7 @@ This piece does not discuss pros/cons.
 | 13/07/2021 | [NZ ‘disappointingly slow’ to take up four-day week](https://www.newsroom.co.nz/disappointingly-slow-uptake-of-4-day-week) by Newsroom                                                                                                  |
 | 09/06/2022 | [Expert says four-day working week should be new normal after COVID-19 pandemic](https://www.newshub.co.nz/home/money/2022/06/expert-says-four-day-working-week-should-be-new-normal-after-covid-19-pandemic.html) by Newshub           |
 | 14/06/2022 | [The four-day work week revolution - Is New Zealand being left behind?](https://www.nzherald.co.nz/business/the-front-page-the-four-day-work-week-revolution-is-new-zealand-being-left-behind/75EBAYKOKTAASQMG2SJODDAHJE/) by NZ Herald |
-| 01/07/2022 | [More Kiwis ditch the five day, 40-hour work week as 'anti-work' sentiment spreads](https://www.stuff.co.nz/business/129142615/more-kiwis-ditch-the-five-day-40hour-work-week-as-antiwork-sentiment-spreads)                                                                                                                                                                                                                                        |
+| 01/07/2022 | [More Kiwis ditch the five day, 40-hour work week as 'anti-work' sentiment spreads](https://www.stuff.co.nz/business/129142615/more-kiwis-ditch-the-five-day-40hour-work-week-as-antiwork-sentiment-spreads) by Stuff                                                                                                                                                                                                                                        |
 
 ## Contributing
 Feel free to submit a pull request if:  
