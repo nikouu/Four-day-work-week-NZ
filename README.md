@@ -12,22 +12,23 @@ This piece does not discuss pros/cons.
 
 ## Workplaces
 
-|Workplace|Date|Type|Trial?|Link|
-|--|--|--|--|--|
-| Perpetual Guardian | 23/07/2019 | 32 hours at 100% pay | Yes | [The Four Day Week Is Here](https://www.perpetualguardian.co.nz/the-four-day-week-is-here/) by Perpetual Guardian |
-| Unilever NZ | 01/12/2020 | 32 hours at 100% pay | Yes | [Unilever NZ to trial four-day work week at full pay](https://www.unilever.com.au/news/press-releases/2020/unilever-nz-to-trial-four-day-work-week-at-full-pay/) by Unilever |
+| Workplace          | Date       | Type                 | Trial? | Link                                                                                                                                                                         |
+| ------------------ | ---------- | -------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Perpetual Guardian | 23/07/2019 | 32 hours at 100% pay | Yes    | [The Four Day Week Is Here](https://www.perpetualguardian.co.nz/the-four-day-week-is-here/) by Perpetual Guardian                                                            |
+| Unilever NZ        | 01/12/2020 | 32 hours at 100% pay | Yes    | [Unilever NZ to trial four-day work week at full pay](https://www.unilever.com.au/news/press-releases/2020/unilever-nz-to-trial-four-day-work-week-at-full-pay/) by Unilever |
 
 ## New Zealand specific articles
 
-| Date | Title |
-|-----|---|
-|01/07/2021| [Four-day working week plan picking up steam](https://www.rnz.co.nz/national/programmes/sunday/audio/2018806342/four-day-working-week-plan-picking-up-steam) by RNZ |
-|13/07/2021| [NZ ‘disappointingly slow’ to take up four-day week](https://www.newsroom.co.nz/disappointingly-slow-uptake-of-4-day-week) by Newsroom |
-| 09/06/2022 | [Expert says four-day working week should be new normal after COVID-19 pandemic](https://www.newshub.co.nz/home/money/2022/06/expert-says-four-day-working-week-should-be-new-normal-after-covid-19-pandemic.html) by Newshub |
-| 14/06/2022 | [The four-day work week revolution - Is New Zealand being left behind?](https://www.nzherald.co.nz/business/the-front-page-the-four-day-work-week-revolution-is-new-zealand-being-left-behind/75EBAYKOKTAASQMG2SJODDAHJE/) by NZ Herald
+| Date       | Title                                                                                                                                                                                                                                   |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01/07/2021 | [Four-day working week plan picking up steam](https://www.rnz.co.nz/national/programmes/sunday/audio/2018806342/four-day-working-week-plan-picking-up-steam) by RNZ                                                                     |
+| 13/07/2021 | [NZ ‘disappointingly slow’ to take up four-day week](https://www.newsroom.co.nz/disappointingly-slow-uptake-of-4-day-week) by Newsroom                                                                                                  |
+| 09/06/2022 | [Expert says four-day working week should be new normal after COVID-19 pandemic](https://www.newshub.co.nz/home/money/2022/06/expert-says-four-day-working-week-should-be-new-normal-after-covid-19-pandemic.html) by Newshub           |
+| 14/06/2022 | [The four-day work week revolution - Is New Zealand being left behind?](https://www.nzherald.co.nz/business/the-front-page-the-four-day-work-week-revolution-is-new-zealand-being-left-behind/75EBAYKOKTAASQMG2SJODDAHJE/) by NZ Herald |
+| 01/07/2022 | [More Kiwis ditch the five day, 40-hour work week as 'anti-work' sentiment spreads](https://www.stuff.co.nz/business/129142615/more-kiwis-ditch-the-five-day-40hour-work-week-as-antiwork-sentiment-spreads)                                                                                                                                                                                                                                        |
 
 ## Contributing
 Feel free to submit a pull request if:  
-1. The workplace/story isn't already covered by an existing link
+1. The workplace/story isn't already covered by an existing link.
 2. There has been an update for a workplace. For instance moving from a trial. 
-3. There is proof by a reputable and public source
+3. There is proof by a reputable and public source.
