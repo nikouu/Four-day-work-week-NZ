@@ -16,6 +16,7 @@ This piece does not discuss pros/cons.
 | ------------------ | ---------- | -------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Perpetual Guardian | 23/07/2019 | 32 hours at 100% pay | Yes    | [The Four Day Week Is Here](https://www.perpetualguardian.co.nz/the-four-day-week-is-here/) by Perpetual Guardian                                                            |
 | Unilever NZ        | 01/12/2020 | 32 hours at 100% pay | Yes    | [Unilever NZ to trial four-day work week at full pay](https://www.unilever.com.au/news/press-releases/2020/unilever-nz-to-trial-four-day-work-week-at-full-pay/) by Unilever |
+| CONQA              | 05/04/2022 | 32 hours at 100% pay | Yes    | [Enjoy more time off the tools with CONQA](https://www.conqahq.com/blog-posts/enjoy-more-time-off-the-tools-with-conqa) by CONQA                                             |
 
 ## New Zealand specific articles
 
