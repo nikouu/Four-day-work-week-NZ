@@ -30,6 +30,7 @@ This piece does not discuss pros/cons.
 | 01/07/2022 | [More Kiwis ditch the five day, 40-hour work week as 'anti-work' sentiment spreads](https://www.stuff.co.nz/business/129142615/more-kiwis-ditch-the-five-day-40hour-work-week-as-antiwork-sentiment-spreads) by Stuff                   |
 | 30/09/2022 | [Businesses trial four day working week but expert says employers should go even further](https://www.stuff.co.nz/business/129430957/businesses-trial-four-day-working-week-but-expert-says-employers-should-go-even-further) by Stuff  |
 | 27/09/2022 | [Council of Trade Unions calls for four-day work week, better employment conditions](https://www.rnz.co.nz/news/business/475591/council-of-trade-unions-calls-for-four-day-work-week-better-employment-conditions) by RNZ               |
+| 02/11/2022 | [Ditch the meetings and earn a day off work](https://www.newsroom.co.nz/ditch-the-constant-meetings-and-earn-a-day-off-work) by Newsroom <br/>*Unilever New Zealand has declared its four-day week trial a success, with the conglomerate rolling it out across the Tasman*|
 
 ## Contributing
 Feel free to submit a pull request if:  
