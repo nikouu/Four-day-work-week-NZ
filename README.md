@@ -36,6 +36,7 @@ This piece does not discuss pros/cons.
 | 02/11/2022 | [Four-day working week a life-changer for young mother](https://www.stuff.co.nz/business/130327008/fourday-working-week-a-lifechanger-for-young-mother) by Stuff                                                                                                            |
 | 08/01/2023 | [Tips on how to beat the back-to-work blues: ‘Make it a four-day work week’](https://www.nzherald.co.nz/nz/tips-on-how-to-beat-the-back-to-work-blues-make-it-a-four-day-work-week/OFAVQZMTZND55JXVEGTS6WQGQM/) by NZ Herald                                                |
 | 13/01/2023 | [The Front Page: Four-day week pioneer Andrew Barnes on changing the way we work](https://www.nzherald.co.nz/business/the-front-page-four-day-week-pioneer-andrew-barnes-on-changing-the-way-we-work/TZGZY4PWFVARTNGJHW25QSOCGU/) by NZ Herald                              |
+| 23/02/2023 | [If a four day week increases productivity and employee happiness, surely it's a win-win](https://www.newstalkzb.co.nz/on-air/early-edition/opinion/kate-hawkesby-if-a-four-day-week-increases-productivity-and-employee-happiness-surely-its-a-win-win/) by NewstalkZB     |
 
 ## Further Resources
 - [4 Day Week](https://www.4dayweek.com/)
