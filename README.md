@@ -40,6 +40,7 @@ This piece does not discuss pros/cons.
 
 ## Further Resources
 - [4 Day Week](https://www.4dayweek.com/)
+- [NZ 4 Day Week Companies](https://okjob.io/companies/?companies%5BrefinementList%5D%5BCountry%5D%5B0%5D=New%20Zealand)
 
 ## Contributing
 Feel free to submit a pull request if:  
