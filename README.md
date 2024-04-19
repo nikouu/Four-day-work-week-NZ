@@ -44,6 +44,7 @@ This piece does not discuss pros/cons.
 
 ## Contributing
 Feel free to submit a pull request if:  
+1. You are contributing a piece of news, a specific workplace, or update to an existing entry only.
 1. The workplace/story isn't already covered by an existing link.
 2. There has been an update for a workplace. For instance moving from a trial. 
 3. There is proof by a reputable and public source.
